@@ -1,4 +1,4 @@
-# Hey, I'm Dorian — aka Dodo 🦤
+# Hey, I'm Dorian - aka Dodo 🦤
 
 **Fullstack Web Developer** · Work-study @ [Equans Digital](https://www.equans.com/) · Based in Grenoble, France 🇫🇷
 
