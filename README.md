@@ -44,15 +44,6 @@ When I'm not coding, I'm probably grinding **Rocket League**, playing **League o
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jacma-pro&show_icons=true&theme=tokyonight&hide_border=true" alt="Dorian's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacma-pro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 
