@@ -34,15 +34,6 @@ When I'm not coding, I'm probably grinding **Rocket League**, playing **League o
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Memory](https://github.com/Jacma-pro/Memory) | Classic memory card game — my first JS project | JavaScript |
-| [Tp_English_game](https://github.com/Jacma-pro/Tp_English_game) | English learning game | TypeScript |
-| [Linux_cours](https://github.com/Jacma-pro/Linux_cours) | Linux course notes & labs | HTML |
-
----
 
 
 ## 🌐 Let's Connect
